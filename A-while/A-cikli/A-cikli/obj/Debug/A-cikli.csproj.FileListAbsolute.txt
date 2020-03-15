@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\EPAM Labs\A-cikli\A-cikli\A-cikli\bin\Debug\A-cikli.exe.config
+C:\Users\User\Desktop\EPAM Labs\A-cikli\A-cikli\A-cikli\bin\Debug\A-cikli.exe
+C:\Users\User\Desktop\EPAM Labs\A-cikli\A-cikli\A-cikli\bin\Debug\A-cikli.pdb
+C:\Users\User\Desktop\EPAM Labs\A-cikli\A-cikli\A-cikli\obj\Debug\A-cikli.csprojAssemblyReference.cache
+C:\Users\User\Desktop\EPAM Labs\A-cikli\A-cikli\A-cikli\obj\Debug\A-cikli.exe
+C:\Users\User\Desktop\EPAM Labs\A-cikli\A-cikli\A-cikli\obj\Debug\A-cikli.pdb
